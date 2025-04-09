@@ -40,7 +40,7 @@ The purpose of this visualization is to understand how different building types 
 Feel free to reach out if you'd like to collaborate, ask questions, or discuss more data visualization projects!
 
 - 👤 **Dev Thakkar**
-- 📫 [LinkedIn](https://www.linkedin.com/in/dev-thakkar-1b72851b1/) *(replace with your actual link)*
+- 📫 [LinkedIn](https://www.linkedin.com/in/dev-thakkar-1b72851b1/)
 
 ---
 
