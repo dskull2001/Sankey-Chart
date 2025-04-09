@@ -7,7 +7,7 @@ This project visualizes category-wise flow data using a Sankey chart. The chart 
 
 ## 📊 Chart Preview
 
-![Sankey Chart](Sankey%20chart.png)
+![Sankey Chart](Sankey_chart.png)
 
 ## 🛠️ Built With
 
